@@ -1,0 +1,8 @@
+com\enterprise\ssm\domain\Route.class
+com\enterprise\ssm\domain\SysLog.class
+com\enterprise\ssm\domain\Traveller.class
+com\enterprise\ssm\domain\Permission.class
+com\enterprise\ssm\domain\UserInfo.class
+com\enterprise\ssm\domain\Role.class
+com\enterprise\ssm\domain\Seller.class
+com\enterprise\ssm\domain\Category.class
